@@ -1,4 +1,4 @@
-# 3D-House-Interior-Design
+# 3D-House-Interior-Design-Using-OpenGL
 3D House Interior Design using OperGL
 
 ![image](https://github.com/tasmikhair/3D-House-Interior-Design/assets/109976479/56bf0db9-dbc8-4d40-b528-772ec6a151a4)
